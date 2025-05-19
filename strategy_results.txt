@@ -1,0 +1,21 @@
+Positive strategy (SMA 10/30):
+Annualized Return: 71.35%
+Sharpe Ratio: 2.85
+Max Drawdown: 9.71%
+MAR Ratio: 7.35
+Monthly Win Rate: 88%
+Trade Frequency (per month): 19.97
+
+Buy and Hold:
+Annualized Return: 21.18%
+Sharpe Ratio: 1.08
+Max Drawdown: 25.21%
+MAR Ratio: 0.84
+
+Negative strategy (SMA 20/70):
+Annualized Return: 12.47%
+Sharpe Ratio: 0.70
+Max Drawdown: 24.63%
+MAR Ratio: 0.51
+Monthly Win Rate: 72%
+Trade Frequency (per month): 8.95
